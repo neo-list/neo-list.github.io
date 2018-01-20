@@ -1209,7 +1209,6 @@
 
 .loading {
   position: fixed;
-  display: none;
   width: 100vw;
   height: 100vh;
   -webkit-box-pack: center;
